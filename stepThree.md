@@ -15,7 +15,7 @@ Ioana A Mititean
 1. What’s the time complexity of the .forEach array method?
     - O(n)
 1. What’s the time complexity of the .sort array method?
-    - n log(n)
+    - O(n log(n))
 1. What’s the time complexity of the .unshift array method?
     - O(n)
 1. What’s the time complexity of the .push array method?
