@@ -19,12 +19,12 @@ Ioana A Mititean
 1. What’s the time complexity of the .unshift array method?
     - O(n)
 1. What’s the time complexity of the .push array method?
-    - O(1) or O(n) ?
+    - O(1)
 1. What’s the time complexity of the .splice array method?
     - O(n)
 1. What’s the time complexity of the .pop array method?
-    - O(1) or O(n) ?
+    - O(1)
 1. What’s the time complexity of the Object.keys() function?
-    - O(1) or O(n) ?
+    - O(n)
 1. BONUS - What’s the space complexity of the Object.keys() function?
     - O(n)
