@@ -21,4 +21,5 @@ Ioana A Mititean
 1. O(5 + 3 + 1)
     - Simplified: O(1)
 1. O(n + n^(1/2) + n^2 + n * log(n)^10)
-    - Simplified: O(n log(n)^10)
+    - If log(n)^10 means, log-base-10 of n: O(n^2)
+    - If log(n)^10 means, log(n) to the power of 10: O(n log(n)^10)
